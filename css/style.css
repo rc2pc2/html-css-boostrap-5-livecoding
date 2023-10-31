@@ -1,0 +1,9 @@
+/* [class^='col']{
+    background-color: aqua;
+    border: 2px solid black;
+} */
+
+
+div#main-article{
+    background-color: beige;
+}
